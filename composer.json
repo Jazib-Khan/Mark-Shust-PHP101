@@ -1,0 +1,14 @@
+{
+    "name": "user/mark-shust-php101",
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jazib-Khan"
+        }
+    ],
+    "require": {}
+}
